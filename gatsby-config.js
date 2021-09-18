@@ -3,5 +3,5 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "gatsby-cloud-functions",
   },
-  plugins: [],
+  plugins: [`gatsby-plugin-gatsby-cloud`],
 };
